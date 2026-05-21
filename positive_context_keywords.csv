@@ -1,0 +1,36 @@
+keyword_hanzi,keyword_pinyin,gloss,window_size
+出,chu,"produced in / comes from",200
+產,chan,"produces / native to",200
+生,sheng,"grows / native to",200
+產於,chan_yu,"produced in (of)",200
+出於,chu_yu,"originates from",200
+主,zhu,"mainly from",200
+有,you,"has (in place X)",200
+土產,tu_chan,"local product",200
+本,ben,"originally from",200
+所產,suo_chan,"the product of (place)",200
+道地,dao_di,"regionally authentic",200
+唯,wei,"only (place X has)",200
+今,jin,"today (place X)",200
+古,gu,"anciently (place X)",200
+入,ru,"comes in from (imported from)",200
+來,lai,"arrives from",200
+貢,gong,"tribute from",200
+獻,xian,"presented (from place X)",200
+經,jing,"passes through / by way of",200
+至,zhi,"reaches (place X)",200
+之,zhi_aux,"of (place X) — possessive marker",100
+山,shan,"mountain of (geographical context)",100
+水,shui,"water of",100
+江,jiang,"river of (Yangtze etc)",100
+河,he,"river of (Yellow River etc)",100
+海,hai,"sea of",100
+湖,hu,"lake of",100
+郡,jun,"commandery of",100
+州,zhou,"prefecture of",100
+府,fu,"prefecture-city of",100
+縣,xian,"county of",100
+國,guo,"state / country of",100
+邊,bian,"border of",100
+界,jie,"boundary of",100
+外,wai,"outside / foreign (frontier marker)",100

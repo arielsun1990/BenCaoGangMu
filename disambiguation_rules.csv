@@ -1,0 +1,35 @@
+toponym,toponym_hanzi,exclusion_char_pinyin,exclusion_char_hanzi,raw_match,reason,evidence_term_pinyin,evidence_term_hanzi
+Shu,蜀,jiao,椒,1,Drug name: shujiao = Sichuan pepper (Zanthoxylum bungeanum),shujiao,蜀椒
+Shu,蜀,qi,漆,1,Drug name: shuqi = lacquer (Rhus verniciflua),shuqi,蜀漆
+Shu,蜀,kui,葵,1,Plant name: shukui = hollyhock (Alcea rosea),shukui,蜀葵
+Shu,蜀,shu,黍,1,Plant name: shushu = sticky millet,shushu,蜀黍
+Shu,蜀,dao,稻,1,Plant name: shudao = Sichuan rice,shudao,蜀稻
+Wu,吳,zhu,茱,1,Drug name: wuzhuyu = evodia fruit,wuzhuyu,吳茱萸
+Wu,吳,yu,萸,1,Drug name: wuzhuyu = evodia fruit (alt match),wuzhuyu,吳茱萸
+Wu,吳,pu,朴,1,Personal name: Wu Pu = 3rd-c. physician (compiler of Wu Pu Bencao),wupu,吳朴
+Wu,吳,gong,公,1,Honorific compound (Mr Wu),wugong,吳公
+Gan,甘,cao,草,1,Drug name: gancao = licorice (Glycyrrhiza uralensis) — most frequent single drug,gancao,甘草
+Gan,甘,sui,遂,1,Drug name: gansui = Euphorbia kansui root,gansui,甘遂
+Gan,甘,wen,溫,1,Drug name: ganwen = sweet warm formula classifier,ganwen,甘溫
+Gan,甘,jiang,薑,1,Drug name: ganjiang = dried ginger,ganjiang,甘薑
+Gan,甘,ku,苦,1,Flavour-descriptor compound (sweet-bitter),ganku,甘苦
+Gan,甘,song,松,1,Drug name: gansong = Nardostachys jatamansi (spikenard),gansong,甘松
+Gan,甘,lan,蘭,1,Plant name: ganlan = sweet orchid,ganlan,甘蘭
+Gan,甘,lu,露,1,Flavour-descriptor (sweet dew),ganlu,甘露
+Yue,越,gua,瓜,1,Plant name: yuegua = muskmelon (Cucumis melo),yuegua,越瓜
+Yue,越,tao,桃,1,Plant name: yuetao = nectarine,yuetao,越桃
+Yue,越,jie,皆,1,Adverbial compound (yue more so),yuejie,越皆
+Yan,燕,nest,巢,1,Drug name: yan's nest = swallow's nest delicacy,yanchao,燕巢
+Yan,燕,zhi,脂,1,Cosmetic compound (rouge),yanzhi,燕脂
+Qin,秦,jiao,椒,1,Plant name: qinjiao = Zanthoxylum simulans (Qin pepper),qinjiao,秦椒
+Qin,秦,pi,皮,1,Drug name: qinpi = bark of Fraxinus rhynchophylla,qinpi,秦皮
+Qin,秦,jiu,艽,1,Drug name: qinjiu = Gentiana macrophylla root,qinjiu,秦艽
+Lu,魯,ban,班,1,Personal name: Lu Ban (legendary carpenter / craftsman),luban,魯班
+Han,韓,shi,氏,1,Personal/surname compound (Mr Han),hanshi,韓氏
+Qi,齊,zi,子,1,Personal-name pattern,qizi,齊子
+Liang,梁,shang,上,1,Adverbial / metaphorical (above the beam = thief),liangshang,梁上
+Yu,豫,zhang,章,1,Plant name: yuzhang = Cinnamomum camphora,yuzhang,豫章
+Yu,豫,zhou,州,0,KEEP - Yuzhou is a valid prefecture (T064),yuzhou,豫州
+Yi,夷,lin,陵,1,Place compound but historically ambiguous (Yiling battle),yiling,夷陵
+Liao,遼,dong,東,0,KEEP - Liaodong is a valid region (T038),liaodong,遼東
+Ji,冀,zhou,州,0,KEEP - Jizhou is a valid prefecture (T063),jizhou,冀州
